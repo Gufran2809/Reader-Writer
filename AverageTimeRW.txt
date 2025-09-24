@@ -1,0 +1,4 @@
+Average time for RW Reader: 99.05 milliseconds
+Average time for RW Writer: 92.82 milliseconds
+Worst-case time for RW Reader: 234 milliseconds
+Worst-case time for RW Writer: 234 milliseconds

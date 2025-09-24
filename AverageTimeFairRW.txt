@@ -1,0 +1,4 @@
+Average time for Fair RW Reader: 92.09 milliseconds
+Average time for Fair RW Writer: 83.17 milliseconds
+Worst-case time for Fair RW Reader: 308 milliseconds
+Worst-case time for Fair RW Writer: 271 milliseconds
